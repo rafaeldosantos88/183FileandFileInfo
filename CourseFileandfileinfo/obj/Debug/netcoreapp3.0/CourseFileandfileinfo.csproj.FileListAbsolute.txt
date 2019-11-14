@@ -1,0 +1,11 @@
+C:\Users\Usuario\source\repos\CourseFileandfileinfo\CourseFileandfileinfo\bin\Debug\netcoreapp3.0\CourseFileandfileinfo.exe
+C:\Users\Usuario\source\repos\CourseFileandfileinfo\CourseFileandfileinfo\bin\Debug\netcoreapp3.0\CourseFileandfileinfo.deps.json
+C:\Users\Usuario\source\repos\CourseFileandfileinfo\CourseFileandfileinfo\bin\Debug\netcoreapp3.0\CourseFileandfileinfo.runtimeconfig.json
+C:\Users\Usuario\source\repos\CourseFileandfileinfo\CourseFileandfileinfo\bin\Debug\netcoreapp3.0\CourseFileandfileinfo.runtimeconfig.dev.json
+C:\Users\Usuario\source\repos\CourseFileandfileinfo\CourseFileandfileinfo\bin\Debug\netcoreapp3.0\CourseFileandfileinfo.dll
+C:\Users\Usuario\source\repos\CourseFileandfileinfo\CourseFileandfileinfo\bin\Debug\netcoreapp3.0\CourseFileandfileinfo.pdb
+C:\Users\Usuario\source\repos\CourseFileandfileinfo\CourseFileandfileinfo\obj\Debug\netcoreapp3.0\CourseFileandfileinfo.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\CourseFileandfileinfo\CourseFileandfileinfo\obj\Debug\netcoreapp3.0\CourseFileandfileinfo.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\CourseFileandfileinfo\CourseFileandfileinfo\obj\Debug\netcoreapp3.0\CourseFileandfileinfo.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\CourseFileandfileinfo\CourseFileandfileinfo\obj\Debug\netcoreapp3.0\CourseFileandfileinfo.dll
+C:\Users\Usuario\source\repos\CourseFileandfileinfo\CourseFileandfileinfo\obj\Debug\netcoreapp3.0\CourseFileandfileinfo.pdb
